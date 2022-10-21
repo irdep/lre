@@ -3113,16 +3113,17 @@ __metadata:
   linkType: hard
 
 "@layer0/redwood@npm:latest":
-  version: 4.12.0
-  resolution: "@layer0/redwood@npm:4.12.0"
+  version: 4.19.3
+  resolution: "@layer0/redwood@npm:4.19.3"
   dependencies:
     "@vercel/nft": ^0.13.1
     chalk: ^4.1.2
+    globby: ^11.1.0
     webpack: ^5.61.0
   peerDependencies:
     "@layer0/cli": ^4.8.0
     "@layer0/core": ^4.8.0
-  checksum: 12113218085c8e9fbc736b48c52205dad32fbba30f0c06995c4f22b5b0b463bab3391a27da3f436f50b1fbd9fdc8d232089efd84f67a75bba81af3f89bc22305
+  checksum: a7d83a65315b72d4e51599b1df510cbedaeac9c1cdcb36ae954535f05fc41677340c9a854b166c32718829e34490b01737abc092801bd2ac7f0b9c8cafefb473
   languageName: node
   linkType: hard
 
@@ -13575,7 +13576,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"globby@npm:11.1.0, globby@npm:^11.0.1, globby@npm:^11.0.2, globby@npm:^11.0.3, globby@npm:^11.0.4":
+"globby@npm:11.1.0, globby@npm:^11.0.1, globby@npm:^11.0.2, globby@npm:^11.0.3, globby@npm:^11.0.4, globby@npm:^11.1.0":
   version: 11.1.0
   resolution: "globby@npm:11.1.0"
   dependencies:
