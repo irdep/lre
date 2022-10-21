@@ -2992,8 +2992,8 @@ __metadata:
   linkType: hard
 
 "@layer0/cli@npm:latest":
-  version: 4.12.0
-  resolution: "@layer0/cli@npm:4.12.0"
+  version: 4.19.3
+  resolution: "@layer0/cli@npm:4.19.3"
   dependencies:
     axios: ^0.21.2
     chalk: ^4.1.2
@@ -3034,7 +3034,7 @@ __metadata:
   bin:
     0: index.js
     layer0: index.js
-  checksum: 4b438d8a3a7833d865a280fa3a33f42ad0682a49094f41770c38c78fc979ef58fb30a7ce04c3d73c7dbf16dddd9f357e531c8b0e510c46abcf84298e5d8ea7d6
+  checksum: a197f35507abb4a31ebd84561f5ca6fa4a32ef1c6e2107a6c9a3d7513b280696cf265149f85514f065c5258a17bd871a71ce306ee36f2e8b588412aad08fb16d
   languageName: node
   linkType: hard
 
