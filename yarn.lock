@@ -3081,15 +3081,15 @@ __metadata:
   linkType: hard
 
 "@layer0/devtools@npm:latest":
-  version: 4.12.0
-  resolution: "@layer0/devtools@npm:4.12.0"
+  version: 4.19.7
+  resolution: "@layer0/devtools@npm:4.19.7"
   dependencies:
     clsx: ^1.1.1
     lodash: ^4.17.20
     sirv-cli: ^1.0.0
   peerDependencies:
     "@layer0/prefetch": ^4.0.0
-  checksum: 471c4d24c442c54fd28377cecefa754ca644fea3f9b5a15f6ac6d50cca5dba74ee6c4dafb816973e7e2ccb033c5a61eace14ad924068df29c8a0301fed87cfbe
+  checksum: 319e7e71702ab8a83dfc692efd6cd5dfcc6b37d897db7fa92c77847d4e4e909a2452a17d132c48f12a450a5061bce69f3808df066c710bc542f5c933196fb35b
   languageName: node
   linkType: hard
 
